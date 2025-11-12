@@ -1,0 +1,58 @@
+/* Basic Styling */
+body {
+  font-family: Arial, sans-serif;
+  background: #fafafa;
+  margin: 0;
+  padding: 0;
+}
+
+header, nav, main, footer {
+  padding: 20px;
+  margin: 10px;
+  background: #ffffff;
+  border: 1px solid #dddddd;
+}
+
+h1, h2 {
+  color: #333333;
+}
+
+img {
+  max-height: 100%;
+}
+
+main img {
+  width: 200px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+table, th, td {
+  border: 1px solid #cccccc;
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+}
+
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+
